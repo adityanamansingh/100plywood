@@ -1,6 +1,6 @@
 
     <!-- Main Footer -->
-    <footer class="main-footer" style="background-image: url(images/background/12.png);">
+    <footer class="main-footer" style="background-image: url(images/background/12.webp);">
         <div class="auto-container">
             <!--Widgets Section-->
             <div class="widgets-section">
@@ -9,7 +9,7 @@
                     <div class="footer-column col-xl-4 col-lg-5 col-md-12 col-sm-12">
                         <div class="footer-widget about-widget">
                             <div class="footer-logo">
-                                <figure class="image"><a href="index.php"><img src="images/foot-logo.png" alt=""></a></figure>
+                                <figure class="image"><a href="index.php"><img src="images/foot-logo.webp" alt=""></a></figure>
                             </div>
                             <div class="widget-content">
                                 <div class="text">We have over 15 years of experience, We take pride in delivering Intelligent Wood Products for clients all over the World.</div>
@@ -81,7 +81,7 @@
         <!--Footer Bottom-->
         <div class="footer-bottom">
             <div class="auto-container">
-                <div class="copyright-text">Copyrights 2022 . All Rights are Reserved by <a href="https://100plywood.com/index.php">100 Plywood</a></div>
+                <div class="copyright-text">Copyrights 2023 . All Rights are Reserved by <a href="https://100plywood.com/index.php">100 Plywood</a></div>
             </div>
         </div>
     </footer>
@@ -106,7 +106,6 @@
 
 </body>
 
-<!-- Mirrored from ary-themes.com/html/bold_touch/100 Plywood/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Sep 2021 05:32:24 GMT -->
 </html>
 
 
