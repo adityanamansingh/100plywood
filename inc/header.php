@@ -7,7 +7,7 @@
 
    
 <link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
+<link href="css/style.css?v=1" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
 <!--Color Switcher Mockup-->
 <link href="css/color-switcher-design.css" rel="stylesheet">
@@ -48,6 +48,7 @@
 
 
     <?php 
+
 $directoryURI = $_SERVER['REQUEST_URI'];
 $path = parse_url($directoryURI, PHP_URL_PATH);
 $components = explode('/', $path);
@@ -94,7 +95,7 @@ $first_part = basename($_SERVER['PHP_SELF'], ".php");
             <div class="auto-container">
                 <div class="main-box clearfix">
                     <div class="pull-left logo-outer">
-                        <div class="logo"><a href="index.php"><img src="images/logo.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="images/logo.webp" alt="" title=""></a></div>
                     </div>
 
                     <!--Nav Box-->
@@ -157,7 +158,7 @@ $first_part = basename($_SERVER['PHP_SELF'], ".php");
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index.php" title=""><img src="images/foot-logo.png" alt="" style="
+                    <a href="index.php" title=""><img src="images/foot-logo.webp" alt="" style="
                         width: 160px;
                         margin: 0 auto;
                     " title=""></a>
@@ -193,7 +194,7 @@ $first_part = basename($_SERVER['PHP_SELF'], ".php");
             
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="images/logo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.php"><img src="images/logo.webp" alt="" title=""></a></div>
                 
                 <ul class="navigation clearfix"><!--Keep This Empty / Menu will come through Javascript--></ul>
             </nav>

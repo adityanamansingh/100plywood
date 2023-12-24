@@ -11,7 +11,7 @@
         <div class="banner-carousel owl-carousel owl-theme">
             <!-- Slide Item -->
             <div class="slide-item">
-                <div class="image-layer" style="background-image:url('images/main-slider/1.jpg')"></div>
+                <div class="image-layer" style="background-image:url('images/main-slider/1.webp')"></div>
                 <div class="content-box">
                     <div class="content">
                         <div class="auto-container">
@@ -28,7 +28,7 @@
 
             <!-- Slide Item -->
             <div class="slide-item">
-                <div class="image-layer" style="background-image:url('images/main-slider/2.jpg')"></div>
+                <div class="image-layer" style="background-image:url('images/main-slider/2.webp')"></div>
                 <div class="content-box">
                     <div class="content">
                         <div class="auto-container">
@@ -72,7 +72,7 @@
                             <li>Commodo consequat duis autex.</li>
                         </ul> -->
                         <div class="bottom-box clearfix">
-                            <!-- <div class="signature"><img src="images/resource/signature.png" alt=""></div>
+                            <!-- <div class="signature"><img src="images/resource/signature.webp" alt=""></div>
                             <h4 class="name">Virgina Pankow <span>Carpenter & Founder</span></h4> -->
                             <div class="btn-box">
                                 <a href="about.php" class="theme-btn btn-style-one"><span class="btn-title">Read More</span></a>
@@ -84,7 +84,7 @@
                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="video-box wow fadeIn">
-                            <figure class="image"><img src="images/resource/about-us.jpg" alt=""></figure>
+                            <figure class="image"><img src="images/resource/about-us.webp" alt=""></figure>
                             <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a>
                         </div>
                     </div>
@@ -114,7 +114,7 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="plywood.php"><img src="images/resource/a2.png" alt=""></a></figure>
+                                <figure class="image"><a href="plywood.php"><img src="images/resource/a2.webp" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
                                 <h4><a href="plywood.php">Plywoods</a></h4>
@@ -128,7 +128,7 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="blockboard.php"><img src="images/resource/a4.png" alt=""></a></figure>
+                                <figure class="image"><a href="blockboard.php"><img src="images/resource/a4.webp" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
                                 <h4><a href="blockboard.php">Blockboards</a></h4>
@@ -142,7 +142,7 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="flushdoor.php"><img src="images/resource/a3.png" alt=""></a></figure>
+                                <figure class="image"><a href="flushdoor.php"><img src="images/resource/a3.webp" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
                                 <h4><a href="flushdoor.php">Flush Doors</a></h4>
@@ -155,7 +155,7 @@
                      <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="veneers.php"><img src="images/resource/a1.png" alt=""></a></figure>
+                                <figure class="image"><a href="veneers.php"><img src="images/resource/a1.webp" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
                                 <h4><a href="veneers.php">Veneers</a></h4>
@@ -180,22 +180,22 @@
         <div class="auto-container">
             <!--Sponsors Carousel-->
             <!-- <ul class="sponsors-carousel owl-carousel owl-theme">
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
+                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.webp" alt=""></a></figure></li>
+                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.webp" alt=""></a></figure></li>
+                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.webp" alt=""></a></figure></li>
+                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.webp" alt=""></a></figure></li>
+                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.webp" alt=""></a></figure></li>
+                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/1.webp" alt=""></a></figure></li>
+                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/2.webp" alt=""></a></figure></li>
+                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/3.webp" alt=""></a></figure></li>
+                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/4.webp" alt=""></a></figure></li>
+                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/5.webp" alt=""></a></figure></li>
             </ul>
         </div>
     </section> -->
     <!--End Clients Section-->
     <!-- Testimonial Section -->
-    <!-- <section class="testimonial-section" style="background-image: url(images/background/2.jpg);">
+    <!-- <section class="testimonial-section" style="background-image: url(images/background/2.webp);">
         <div class="auto-container">
             <div class="sec-title light text-center">
                 <h2>What Clients Says</h2>
@@ -207,7 +207,7 @@
                 <!-- Testimonial Block -->
                 <!-- <div class="testimonial-block">
                     <div class="inner-box">
-                        <div class="thumb"><img src="images/resource/testi-thumb.jpg" alt=""></div>
+                        <div class="thumb"><img src="images/resource/testi-thumb.webp" alt=""></div>
                         <div class="text">
                             <div class="inner">
                                 <p>Amazing quality products. Commendable services. Highly recommended plywood manufacturers in Uttarpradesh area.</p>
@@ -224,7 +224,7 @@
                 <!-- Testimonial Block -->
                 <!-- <div class="testimonial-block">
                     <div class="inner-box">
-                        <div class="thumb"><img src="images/resource/testi-thumb2.jpg" alt=""></div>
+                        <div class="thumb"><img src="images/resource/testi-thumb2.webp" alt=""></div>
                         <div class="text">
                             <div class="inner">
                                 <p>The smartest plywood that you can buy... this industry totally conforms to its tagline i.e. Furnishing  your Dreams. The best quality plywood, boards and doors are manufactured here. Let your home look like a home even after many decades.</p>
@@ -241,7 +241,7 @@
                 <!-- Testimonial Block -->
                 <!-- <div class="testimonial-block">
                     <div class="inner-box">
-                        <div class="thumb"><img src="images/resource/testi-thumb3.jpg" alt=""></div>
+                        <div class="thumb"><img src="images/resource/testi-thumb3.webp" alt=""></div>
                         <div class="text">
                             <div class="inner">
                                 <p>Plywood is inherently modern, It's quality  wood and it's really easy to work with.Plywood comes in more than a dozen standard thicknesses and twice as many grades</p>
